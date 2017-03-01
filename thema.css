@@ -1,0 +1,128 @@
+@import url("http://hatenablog.com/theme/10328537792370034204.css");
+
+
+
+.header {
+    font-family: sans-serif;
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+    border-bottom: solid 3px #e8a011;
+}
+
+
+/*グローバルヘッダー*/
+
+#top-editarea {
+    border-bottom: 1px solid #cccccc;
+}
+
+
+/* ブログタイトル中央寄せ*/
+
+#blog-title {
+    text-align: center;
+}
+
+
+/*　背景色 */
+
+#blog-title, #title a {
+    background-color: #286da8;
+    /* タイトル文字の色 */
+    color: #e8f1f2;
+}
+
+
+/*ブログタイトルにボーダライン*/
+
+#blog-title {
+    border-top: 46px solid #1d3557;
+    /* 上のボーダー */
+    border-bottom: 1px solid #1d3557;
+    /* 下のボーダー */
+}
+
+
+/*　レスポンシブ　メニュの色*/
+
+nav.global-menu-normal, .global-menu-normal a {
+    color: #ffffff;
+    /* 文字色 */
+    background-color: #1d3557;
+    /* 背景色 */
+}
+
+.global-menu-normal a:hover {
+    background-color: #264673;
+    /* マウスオーバー時の色 */
+}
+
+
+/*　記事の見出し */
+
+.entry-header {
+    padding-left: 15px;
+    border-left: 5px solid #0E91DC;
+}
+
+
+/*　記事タイトルのマーカ線*/
+
+a.entry-title-link.bookmark {
+    color: #1d3557;
+    /* 文字色 */
+}
+
+a.entry-title-link.bookmark:hover {
+    color: #286da8;
+    /* ホバー時の文字色 */
+}
+
+a.entry-title-link.bookmark:hover {
+    background: linear-gradient(transparent 60%, #edf7b5 40%);
+}
+
+
+/* カテゴリーの色*/
+
+.categories a {
+    color: #ffffff;
+    /* 文字色 */
+    background-color: #286da8;
+    /* 背景色 */
+}
+
+.categories a:hover {
+    color: #ffffff;
+    /* ホバー時の文字色 */
+    background-color: #a8dadc;
+    /* ホバー時の背景色 */
+}
+
+
+/*　見出しの背景*/
+
+.entry-content h3 {
+    color: #353535;
+    /* 文字色 */
+    background: #f7f7f7;
+    /* 背景色 */
+    border-left: 9px solid #286da8;
+    /* 左のボーダー */
+    padding: 15px;
+    /* 内側の余白 */
+}
+
+
+/*プロフィールの画面*/
+
+.hatena-module-title, .hatena-module-title a {
+    color: #333333;
+    /* 文字色 */
+}
+
+.hatena-module-title {
+    border-bottom: 3px solid #286da8;
+    /* 下のボーダー */
+    padding: 3px 0px;
+    /* 余白 */
+}
