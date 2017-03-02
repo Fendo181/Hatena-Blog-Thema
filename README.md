@@ -2,7 +2,7 @@
 
 ##  概要
 
-もともとにブログテーマは[id:shun_prog0926](http://www.ituore.com/about)さんが製作した[Spirea](http://www.ituore.com/entry/spirea)は使っていますが、このテーマを使っている[Endo Tech Blog](http://kikuchi1201.hateblo.jp/)が余りに読み込みが遅いので改造する事に決めました、
+もともとにブログテーマは[id:shun_prog0926](http://www.ituore.com/about)さんが製作した[Spirea](http://www.ituore.com/entry/spirea)は使っていますが、このテーマを使っている[Endo Tech Blog](http://kikuchi1201.hateblo.jp/)がそろそろ1年たったので色々と改造する事に決めました、
 
 ## Todo
 
@@ -16,3 +16,6 @@
 
 - 2017_03_01
   - 工事に着手。
+- 2017_03_02
+  - DropDownMenuの廃止。
+  - [Joe(id:dreamark) ](http://www.dreamark.tokyo/about)が製作された[CONTENTS](http://www.dreamark.tokyo/entry/contents)が良かったので、こちらのテーマを活用。

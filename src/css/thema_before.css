@@ -1,7 +1,15 @@
-/*mainのCSSの読み込み*/
-@import url("https://github.com/Fendo181/Hatena-Blog-Thema/blob/master/Spirea.css");
+/* <system section="theme" selected="10328537792370034204"> */
+
+/*ここから読みこんでいる。*/
+@import url("http://hatenablog.com/theme/10328537792370034204.css");
+
+/* </system> */
 
 
+/* <system section="background" selected="undefined"> */
+
+
+/* </system> */
 
 .header {
     font-family: sans-serif;
