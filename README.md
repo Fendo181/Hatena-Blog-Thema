@@ -19,3 +19,6 @@
 - 2017_03_02
   - DropDownMenuの廃止。
   - [Joe(id:dreamark) ](http://www.dreamark.tokyo/about)が製作された[CONTENTS](http://www.dreamark.tokyo/entry/contents)が良かったので、こちらのテーマを活用。
+- 2018_02_16
+  - [ZENO-TEAL](http://zeno-teal.hatenablog.com/)に変更
+  - 以前として画像が大きすぎて読みこみが遅い問題がある。
