@@ -1,0 +1,72 @@
+/* <system section="theme" selected="6653812171397613909"> */
+@import url("https://blog.hatena.ne.jp/-/theme/6653812171397613909.css");
+/* </system> */
+
+.navi,
+.entry-content h3,
+.entry-content h1,
+#globalheader-container,
+a.entry-see-more,
+.pager-next a:after,
+.pager-prev a:after,
+#footer,
+#footer-inner,
+#footer-inner,
+#copyr,
+.leave-comment-title{
+  background: #286da8;
+}
+
+#title a,
+.entry-content h4,
+.point:before,
+.column:before,
+.attention:before,
+#title a,
+.entry-header .entry-title a,
+.entry-header .entry-title a:visited{
+  color: #0d0015;
+}
+
+.kaerebalink-box,
+.booklink-box,
+.entry-content .hatena-asin-detail{
+  border: 1px solid #0d0015;
+}
+
+.entry-content h4,
+.hatena-module-title{
+  border-left:4px solid #0d0015;
+}
+
+.point,
+.column,
+.attention,
+.entry-content blockquote{
+  border: 1px dashed #0d0015;
+}
+
+.entry-header .entry-title,
+.page-archive .archive-entry-header .entry-title
+{
+  border-top: #38568c 8px solid;
+  border-bottom:#38568c 1px solid;
+}
+
+/*
+-------------------------------------------
+レスポンシブデザインを有効にしている方は以下のコードも
+含めてコピペして下さい。
+-------------------------------------------
+ */
+@media only screen and (max-width: 767px) {
+.navi,
+.toggle a
+{
+  background: #0d0015;
+}
+
+.close{
+  background: #0d0015;
+ }
+}
